@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad63f6b7-89f5-4c47-acbc-7deb37fdde95" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ad63f6b7-89f5-4c47-acbc-7deb37fdde95" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -41,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -67,8 +65,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/main/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2017-05-14-13-22-32-1494768152/main/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="24">
               <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
@@ -113,16 +121,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="count-string.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2017-03-09-12-35-20-1489062920/src/count-string.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -136,6 +134,7 @@
         <option value="$PROJECT_DIR$/2017-03-13-07-18-00-1489389480/src/collect-all-even.js" />
         <option value="$PROJECT_DIR$/2017-04-15-04-56-48-1492232208/src/remove-without-same.js" />
         <option value="$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/main/main.js" />
+        <option value="$PROJECT_DIR$/2017-05-14-13-22-32-1494768152/main/main.js" />
       </list>
     </option>
   </component>
@@ -214,36 +213,13 @@
             <path>
               <item name="recuriting" type="b2602c69:ProjectViewProjectNode" />
               <item name="recuriting" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-04-15-04-56-48-1492232208" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-05-14-13-22-32-1494768152" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="recuriting" type="b2602c69:ProjectViewProjectNode" />
               <item name="recuriting" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-04-15-04-56-48-1492232208" type="462c0819:PsiDirectoryNode" />
-              <item name="spec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recuriting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recuriting" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-04-15-04-56-48-1492232208" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recuriting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recuriting" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-05-14-13-24-11-1494768251" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recuriting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recuriting" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-05-14-13-24-11-1494768251" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-05-14-13-22-32-1494768152" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recuriting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recuriting" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-05-14-13-24-11-1494768251" type="462c0819:PsiDirectoryNode" />
-              <item name="spec" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,7 +264,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2967000" />
+    <option name="totallyTimeSpent" value="3256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="805" extended-state="6" />
@@ -443,7 +419,7 @@
     <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -465,6 +441,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/main/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-05-14-13-22-32-1494768152/main/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
