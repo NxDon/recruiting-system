@@ -17,16 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="collect-all-even.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2017-03-13-07-18-00-1489389480/src/collect-all-even.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -37,11 +27,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="remove-without-same.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="remove-without-same.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2017-04-15-04-56-48-1492232208/src/remove-without-same.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run-tests.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/run-tests.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main-spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/spec/main-spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/main/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -51,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/2017-04-15-04-56-48-1492232208/spec/remove-without-same-spec.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -93,39 +123,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2017-03-09-12-35-20-1489062920/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="72">
-                <caret line="3" column="58" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="58" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="count-string-spec.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2017-03-09-12-35-20-1489062920/spec/count-string-spec.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="51" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2017-03-09-12-35-20-1489062920/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -138,6 +135,7 @@
         <option value="$PROJECT_DIR$/2017-03-09-12-35-20-1489062920/src/count-string.js" />
         <option value="$PROJECT_DIR$/2017-03-13-07-18-00-1489389480/src/collect-all-even.js" />
         <option value="$PROJECT_DIR$/2017-04-15-04-56-48-1492232208/src/remove-without-same.js" />
+        <option value="$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/main/main.js" />
       </list>
     </option>
   </component>
@@ -230,6 +228,23 @@
               <item name="2017-04-15-04-56-48-1492232208" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="recuriting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recuriting" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-05-14-13-24-11-1494768251" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recuriting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recuriting" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-05-14-13-24-11-1494768251" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recuriting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recuriting" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-05-14-13-24-11-1494768251" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -273,7 +288,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2645000" />
+    <option name="totallyTimeSpent" value="2967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="805" extended-state="6" />
@@ -412,7 +427,7 @@
     <entry file="file://$PROJECT_DIR$/2017-04-15-04-56-48-1492232208/spec/remove-without-same-spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -420,7 +435,39 @@
     <entry file="file://$PROJECT_DIR$/2017-04-15-04-56-48-1492232208/src/remove-without-same.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/run-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/spec/main-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-05-14-13-24-11-1494768251/main/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
           <folding />
         </state>
       </provider>
